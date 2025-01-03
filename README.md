@@ -1,4 +1,4 @@
-Hi! My name is Brandon Webb
+Hi! My name is Brandon Webb. 
 As a current undergraduate pursuing a degree in Computer Engineering, I am deeply passionate about leveraging my blend of technical expertise and collaborative skills to tackle intricate challenges within the realm of computer hardware and system design.
 Throughout my academic journey, I have honed my abilities to grasp complex technical concepts and apply them in practical scenarios.
 I am driven by a curiosity for the inner workings of computer systems, and I thrive in environments that encourage continuous learning and hands-on experience.
